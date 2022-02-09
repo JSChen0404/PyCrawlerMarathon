@@ -15,6 +15,9 @@ D6：HTTP 靜態網頁架構說明與淺談HTML / CSS / JavaScript
 
 ## 靜態網頁爬蟲技巧
 D7：解析靜態網頁與實作靜態資料爬蟲
+
 D8：使用網路爬蟲進行圖片下載
+
 D9：更多的資料爬蟲工具介紹 - PyQuery/grab
+
 D10：學習使用正規表達式(Regular expression)，過濾及擷取資料
