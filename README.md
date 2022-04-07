@@ -55,3 +55,7 @@ D24：Scrapy 爬蟲框架介紹
 D25：Scrapy 爬蟲框架 - xpath & 基本爬蟲介紹
 
 D26：Scrapy 爬蟲框架 - 資料輸出與log設定
+
+D27：Scrapy 爬蟲框架 - Scrapy 爬蟲框架初探 (2)：處理資料的 pipeline
+
+D28：Scrapy 大規模多網頁爬蟲框架實作
